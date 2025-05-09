@@ -1,13 +1,6 @@
 ## Preview
 
 ![](preview.png)
-
-## Configuration
-
-```yaml
-## Preview
-
-![](preview.png)
 ![](preview1.png)
 
 ## Configuration
